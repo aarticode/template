@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarticode&label=Profile%20views&color=0e75b6&style=flat" alt="aarticode" /> </p>
 
-- 🔭 I’m currently working on **calculator**
+- 🔭 I’m currently working on **Grocery_Store_Management_webapp**
 
 - 🌱 I’m currently learning **python developer**
 
