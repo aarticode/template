@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Grocery_Store_Management_webapp**
 
-- 🌱 I’m currently learning **python developer**
+- 🌱 I’m currently learning Python, SQL, FLask etc
 
 - 👨‍💻 All of my projects are available at [https://github.com/aarticode](https://github.com/aarticode)
 
