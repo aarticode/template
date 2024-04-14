@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aarti chouhan</h1>
-<h3 align="center">Python Developer</h3>
+<h2 align="center">Python Developer</h2>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -8,13 +8,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarticode&label=Profile%20views&color=0e75b6&style=flat" alt="aarticode" /> </p>
 
 - 🔭 I’m currently working on **Grocery_Store_Management_webapp**
-
 - 🌱 I’m currently learning Python, SQL, FLask etc
-
 - 👨‍💻 All of my projects are available at [https://github.com/aarticode](https://github.com/aarticode)
-
 - 📫 How to reach me **aartisingh1117@gmail.com**
-
 - ⚡ Fun fact **focusing**
 
 <h3 align="left">Connect with me:</h3>
