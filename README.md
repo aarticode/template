@@ -7,8 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarticode&label=Profile%20views&color=0e75b6&style=flat" alt="aarticode" /> </p>
 
-- 🔭 I’m currently working on **Grocery_Store_Management_webapp**
-- 🌱 I’m currently learning Python, SQL, FLask etc
+- 🔭 I’m currently working on **100-Days-Of-Code-Challenge**
+- 🌱 I’m currently learning Python, SQL, FLask, etc
 - 👨‍💻 All of my projects are available at [https://github.com/aarticode](https://github.com/aarticode)
 - 📫 How to reach me **aartisingh1117@gmail.com**
 - ⚡ Fun fact **focusing**
